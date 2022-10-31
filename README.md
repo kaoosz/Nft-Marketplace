@@ -9,7 +9,7 @@
 
 ## Languages used  
 
-**Solidity, Node Js, Truffle, Metamask, React JS, JavaScript, HTML, CSS, BootStrap**  
+**Solidity, Node Js, Ethers, Truffle, Metamask, React JS, JavaScript, HTML, CSS, BootStrap**  
 
   
 
@@ -18,7 +18,7 @@
 *This is simple project about blockchain nfts and mint system,
 compound marketplace where you can mint, buy, sell your nfts.*  
 
-## described  
+## Described  
 
 *IPFS is free File System peer-to-peer to store json,images and more things.*
 
