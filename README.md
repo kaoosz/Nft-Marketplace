@@ -9,7 +9,7 @@
 
 ## Languages used  
 
-**Solidity, Node Js, Ethers, Truffle, Metamask, React JS, JavaScript, HTML, CSS, BootStrap**  
+**Solidity, Node Js, Web3, Truffle, Metamask, React JS, JavaScript, HTML, CSS, BootStrap**  
 
   
 
